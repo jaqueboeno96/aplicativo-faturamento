@@ -15,4 +15,5 @@ Tela principal:
 
 Tela de histórico:
 
- ![Uploading Captura de tela 2024-05-23 094512.png…]()
+![Captura de tela 2024-05-23 094512](https://github.com/jaqueboeno96/aplicativo-faturamento/assets/106850204/89e1b691-f4e6-4a29-b05f-cf33c578b9ec)
+
